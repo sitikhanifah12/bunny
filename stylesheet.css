@@ -48,7 +48,7 @@ li {
 }
 
 .section-title {
-  border-bottom: 2px solid #dee7ec;
+  border-bottom: 2px solid #F08080;
   font-size: 28px;
   padding-bottom: 15px;
   margin-bottom: 50px;
@@ -75,11 +75,11 @@ input, textarea {
   margin-bottom: 30px;
   padding: 20px;
   font-size: 18px;
-  border: 1px solid #dee7ec;            
+  border: 1px solid #F08080;            
   }            
 /* Tambahkan CSS untuk contact-submit */
 .contact-submit{
-  background-color:#dee7ec;
+  background-color:#F08080;
   color:#889eab;
 }
 
